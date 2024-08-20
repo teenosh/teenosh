@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @teenosh
+- 👀 I’m interested in Game Development and AI features.
+- 🌱 I’m currently learning Git and Github along with C++ programming language.
+- 💞️ I’m looking to collaborate on interesting projects about games, ai and anything cool.
+- 📫 How to reach me: My email: bekzhan1900@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I am a student from Kazakhstan.
